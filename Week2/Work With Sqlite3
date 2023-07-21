@@ -1,0 +1,10 @@
+1. Create table 
+
+stud(id,name) (use I'd as primary key)
+stud_details(id,city,mobileno) (Use I'd as foreign key)
+
+2. Insert minimum 10 records for each table.
+3. Display whose student come from the Surat City.
+4. Display student details whose city name start with 'B'.
+5. Update mobileno who are comming from 'Surat'
+ 
